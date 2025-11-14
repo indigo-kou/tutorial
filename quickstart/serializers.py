@@ -1,12 +1,14 @@
-from django.contrib.auth.models import User, Group
+from .models import Employee, Department
 from rest_framework import serializers
 
-class UserSerializer(serializers.HyperlinkedModelSerializer):
+class DepartmentSerializer(serializers.ModelSerializer):
     class Meta:
-        model = User
-        fields = ['url', 'username', 'email', 'groups']
+        model = Department
+        fields = ['id', 'department']
 
-class GroupSerializer(serializers.HyperlinkedModelSerializer):
+class EmployeeSerializer(serializers.ModelSerializer):
+    departments = DepartmentSerializer(many=True, read_only=True)
+
     class Meta:
-        model = Group
-        fields = ['url', 'name']
+        model = Employee
+        fields = ['employee_id', 'name', 'departments']
