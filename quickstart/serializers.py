@@ -7,17 +7,15 @@ class DepartmentSerializer(serializers.ModelSerializer):
         fields = ['department_name']
 
 class EmployeeSerializer(serializers.ModelSerializer):
-    department_name = DepartmentSerializer(many=True, read_only=True)
+    department = serializers.SerializerMethodField()
 
     class Meta:
         model = Employee
-        fields = ['employee_id', 'name', 'department_name']
+        fields = ['employee_id', 'name', 'department']
     
-    def get_department_name(self, obj):
-        departments = obj.departments.all()
-        if departments.exists():
-            return departments.first().department_name
-        return None
+    def get_department(self, obj):
+        first_dep = obj.departments.first()
+        return first_dep.department_name if first_dep else None
 
 class EmployeeCreateSerializer(serializers.Serializer):
     name = serializers.CharField(max_length=100)
