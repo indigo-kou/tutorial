@@ -20,5 +20,6 @@ from django.urls import path
 from quickstart.views import EmployeeAPI
 
 urlpatterns = [
+    path('admin/', admin.site.urls),
     path('api/employees/', EmployeeAPI.as_view(), name='employees'),
 ]

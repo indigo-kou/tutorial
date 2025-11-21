@@ -1,0 +1,124 @@
+WARNING 2025-11-21 12:31:36,879 log Not Found: /api/employee/
+WARNING 2025-11-21 12:31:37,836 log Not Found: /api/employee/
+WARNING 2025-11-21 12:31:38,761 log Not Found: /api/employee/
+WARNING 2025-11-21 12:31:39,367 log Not Found: /api/employee/
+WARNING 2025-11-21 12:31:40,287 log Not Found: /api/employee/
+WARNING 2025-11-21 12:31:41,196 log Not Found: /api/employee/
+WARNING 2025-11-21 12:31:42,122 log Not Found: /api/employee/
+INFO 2025-11-21 12:32:06,664 views Received GET request with employee_id: 1
+INFO 2025-11-21 12:32:06,668 views Returning data for employee_id: 1
+WARNING 2025-11-21 12:32:07,610 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:32:08,557 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:32:09,192 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:32:10,144 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:32:11,112 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:32:12,070 log Unauthorized: /api/employees/
+INFO 2025-11-21 12:35:56,638 views Received GET request with employee_id: 1
+INFO 2025-11-21 12:35:56,641 views Returning data for employee_id: 1
+WARNING 2025-11-21 12:35:57,555 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:35:58,469 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:35:59,082 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:36:00,044 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:36:00,966 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:36:01,892 log Unauthorized: /api/employees/
+INFO 2025-11-21 12:38:20,330 views Received GET request with employee_id: 1
+INFO 2025-11-21 12:38:20,334 views Returning data for employee_id: 1
+WARNING 2025-11-21 12:38:21,294 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:38:22,215 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:38:22,818 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:38:23,743 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:38:24,667 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:38:25,577 log Unauthorized: /api/employees/
+INFO 2025-11-21 12:46:00,360 views Received GET request with employee_id: 1
+INFO 2025-11-21 12:46:00,365 views Returning data for employee_id: 1
+WARNING 2025-11-21 12:46:01,275 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:46:02,194 log Unauthorized: /api/employees/
+INFO 2025-11-21 12:46:02,801 views Received GET request with employee_id: None
+INFO 2025-11-21 12:46:02,801 views Returning data for all employees
+WARNING 2025-11-21 12:46:03,413 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:46:04,325 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:46:05,247 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:46:06,163 log Unauthorized: /api/employees/
+INFO 2025-11-21 12:46:47,395 views Received GET request with employee_id: 1
+INFO 2025-11-21 12:46:47,400 views Returning data for employee_id: 1
+WARNING 2025-11-21 12:46:48,353 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:46:49,267 log Unauthorized: /api/employees/
+INFO 2025-11-21 12:46:49,894 views Received GET request with employee_id: None
+INFO 2025-11-21 12:46:49,894 views Returning data for all employees
+WARNING 2025-11-21 12:46:50,859 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:46:51,811 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:46:52,766 log Unauthorized: /api/employees/
+INFO 2025-11-21 12:47:37,999 views Received GET request with employee_id: 1
+INFO 2025-11-21 12:47:38,004 views Returning data for employee_id: 1
+WARNING 2025-11-21 12:47:38,912 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:47:39,810 log Unauthorized: /api/employees/
+INFO 2025-11-21 12:47:40,409 views Received GET request with employee_id: None
+INFO 2025-11-21 12:47:40,409 views Returning data for all employees
+WARNING 2025-11-21 12:47:41,313 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:47:42,234 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:47:43,532 log Unauthorized: /api/employees/
+INFO 2025-11-21 12:48:27,690 views Received GET request with employee_id: 1
+INFO 2025-11-21 12:48:27,695 views Returning data for employee_id: 1
+WARNING 2025-11-21 12:48:28,615 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:48:29,539 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:48:30,160 log Not Found: /apiemployees/
+WARNING 2025-11-21 12:48:31,078 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:48:32,321 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:48:33,813 log Unauthorized: /api/employees/
+INFO 2025-11-21 12:51:08,183 views Received GET request with employee_id: 1
+INFO 2025-11-21 12:51:08,187 views Returning data for employee_id: 1
+WARNING 2025-11-21 12:51:09,206 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:51:10,218 log Unauthorized: /api/employees/
+INFO 2025-11-21 12:51:10,881 views Received GET request with employee_id: None
+INFO 2025-11-21 12:51:10,882 views Returning data for all employees
+WARNING 2025-11-21 12:51:11,900 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:51:12,908 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:51:13,943 log Unauthorized: /api/employees/
+INFO 2025-11-21 12:54:31,382 views Received GET request with employee_id: None
+INFO 2025-11-21 12:54:31,383 views Returning data for all employees
+WARNING 2025-11-21 12:54:32,313 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:54:33,225 log Unauthorized: /api/employees/
+INFO 2025-11-21 12:54:33,836 views Received GET request with employee_id: None
+INFO 2025-11-21 12:54:33,836 views Returning data for all employees
+WARNING 2025-11-21 12:54:34,777 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:54:35,710 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:54:36,654 log Unauthorized: /api/employees/
+INFO 2025-11-21 12:57:14,933 views Received GET request with employee_id: None
+INFO 2025-11-21 12:57:14,934 views Returning data for all employees
+WARNING 2025-11-21 12:57:15,604 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:57:16,267 log Unauthorized: /api/employees/
+INFO 2025-11-21 12:57:16,920 views Received GET request with employee_id: None
+INFO 2025-11-21 12:57:16,920 views Returning data for all employees
+WARNING 2025-11-21 12:57:17,582 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:57:18,195 log Unauthorized: /api/employees/
+WARNING 2025-11-21 12:57:18,807 log Unauthorized: /api/employees/
+INFO 2025-11-21 12:59:00,001 views Received GET request with employee_id: None
+INFO 2025-11-21 12:59:00,002 views Returning data for all employees
+INFO 2025-11-21 12:59:00,660 views Received GET request with employee_id: 999
+WARNING 2025-11-21 12:59:00,661 views Employee with ID 999 not found
+WARNING 2025-11-21 12:59:00,662 log Not Found: /api/employees/
+INFO 2025-11-21 12:59:01,276 views Received GET request with employee_id: 2
+INFO 2025-11-21 12:59:01,278 views Returning data for employee_id: 2
+INFO 2025-11-21 12:59:01,897 views Received GET request with employee_id: None
+INFO 2025-11-21 12:59:01,898 views Returning data for all employees
+INFO 2025-11-21 12:59:02,528 views Received POST data: {'name': '次郎', 'department_name': '開発'}
+INFO 2025-11-21 12:59:02,532 views Created employee with ID: 3
+INFO 2025-11-21 12:59:03,150 views Received POST data: {'name': '', 'department_name': ''}
+WARNING 2025-11-21 12:59:03,151 views Invalid data: {'name': [ErrorDetail(string='This field may not be blank.', code='blank')], 'department_name': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+WARNING 2025-11-21 12:59:03,152 log Bad Request: /api/employees/
+WARNING 2025-11-21 12:59:03,761 log Forbidden: /api/employees/
+INFO 2025-11-21 13:01:39,172 views Received GET request with employee_id: None
+INFO 2025-11-21 13:01:39,173 views Returning data for all employees
+INFO 2025-11-21 13:01:39,810 views Received GET request with employee_id: 999
+WARNING 2025-11-21 13:01:39,812 views Employee with ID 999 not found
+WARNING 2025-11-21 13:01:39,816 log Not Found: /api/employees/
+INFO 2025-11-21 13:01:40,447 views Received GET request with employee_id: 1
+INFO 2025-11-21 13:01:40,450 views Returning data for employee_id: 1
+INFO 2025-11-21 13:01:41,080 views Received GET request with employee_id: None
+INFO 2025-11-21 13:01:41,081 views Returning data for all employees
+INFO 2025-11-21 13:01:41,712 views Received POST data: {'name': '次郎', 'department_name': '開発'}
+INFO 2025-11-21 13:01:41,714 views Created employee with ID: 2
+INFO 2025-11-21 13:01:42,349 views Received POST data: {'name': '', 'department_name': ''}
+WARNING 2025-11-21 13:01:42,350 views Invalid data: {'name': [ErrorDetail(string='This field may not be blank.', code='blank')], 'department_name': [ErrorDetail(string='This field may not be blank.', code='blank')]}
+WARNING 2025-11-21 13:01:42,350 log Bad Request: /api/employees/
+WARNING 2025-11-21 13:01:42,968 log Forbidden: /api/employees/
