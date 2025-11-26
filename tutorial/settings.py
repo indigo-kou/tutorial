@@ -174,10 +174,5 @@ LOGGING = {
             'level': 'INFO',
             "propagate": True,
         },
-        "quickstart": {
-            "handlers": ["console", "file"],
-            "level": "INFO",
-            "propagate": False,
-        },
     },
 } 
